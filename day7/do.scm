@@ -1,4 +1,4 @@
-(load "/home/gue/src/aoc2025/srfi-1.scm")
+(load "../../aoc2025/srfi-1.scm")
 (load "example.scm")
 (load "input.scm")
 
